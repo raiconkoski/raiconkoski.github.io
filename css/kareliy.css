@@ -1,0 +1,292 @@
+.home{
+	width: 105px;
+	height: 105px;
+	background-image: url(../svg/bootons/home.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.home:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.home:visited{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+} 
+.contakt{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/contact.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.contakt:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.uprava{
+	margin-top: 4px;
+	width: 105px;
+	height: 105px;
+	background-image: url( ../svg/bootons/uprava.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.uprava:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.news{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/news.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.news:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.histor{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/historich.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.histor:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.vov{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/vov.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.vov:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.shcool{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/scool.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.shcool:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.mans{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/mans.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.mans:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.lirica{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/lirika.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.lirica:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.map{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/map.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.map:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.karjala{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/karjala.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	border-radius: 1em;
+	background-color: #F15A24;
+	
+}
+
+/**Горизонталь**/
+.music{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/music.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.music:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.video{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/video.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 108px;
+}	
+.video:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.photo{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/photo.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 217px;
+}	
+.photo:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.games{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/games.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 326px;
+}	
+.games:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.vk1{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/vk1.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 435px;
+}	
+.vk1:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.vk2{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/vk2.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 544px;
+}	
+.vk2:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.partners{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/partnyrs.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 653px;
+}	
+.partners:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.images{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/otkritki.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 762px;
+}	
+.images:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}

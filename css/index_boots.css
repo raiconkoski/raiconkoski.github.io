@@ -1,0 +1,333 @@
+#home{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #F15A24;
+	display: inline-block;
+	background-image: url(../svg/bootons/home.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left:0;
+	border-radius: 1em;
+	background-size: 195px;	
+}
+.contakt{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/contact.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 197px
+}
+.contakt:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;	
+}
+.uprava{
+	position: absolute;
+	margin: auto auto auto 2px;	
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/uprava.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 393px
+}
+.uprava:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.news{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/news.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 589px
+}
+.news:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.histor{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/historich.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 785px
+}
+.histor:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+
+.vov{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url( ../svg/bootons/vov.svg);
+	margin-left: 0px
+}
+
+.vov:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.shcool{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url( ../svg/bootons/scool.svg);
+	margin-left: 197px
+}
+.shcool:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.mans{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 393px;
+	background-image: url( ../svg/bootons/mans.svg);
+}
+.mans:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.lirica{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 589px;
+	background-image: url( ../svg/bootons/lirika.svg);
+}
+.lirica:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.map{
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/map.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 785px;
+}
+.map:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.karjala{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/karjala.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-left:0;
+}
+.karjala:hover{
+	background-image: url( ../svg/bootons/karjala1.svg);
+	border-radius: 1em;
+	background-size: 195px;
+}
+.music{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 197px;
+	background-image: url( ../svg/bootons/music.svg);
+}
+.music:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.video{
+	position: absolute;
+	margin: auto auto auto 2px;	
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 393px;
+	background-image: url( ../svg/bootons/video.svg);
+}
+.video:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.photo{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	margin-left: 589px;
+	background-image: url( ../svg/bootons/photo.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.photo:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.games{
+	position: absolute;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	background-image: url( ../svg/bootons/games.svg);
+	margin-left: 785px;
+}
+.games:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.vk1{
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left:0;
+	background-image: url( ../svg/bootons/vk1.svg);
+}
+.vk1:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.vk2{
+	position: absolute;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url( ../svg/bootons/vk2.svg);
+		margin-left: 197px;
+}
+.vk2:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.partners{
+	position: absolute;
+	margin: auto auto auto 2px;	
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 393px;
+	background-image: url( ../svg/bootons/partnyrs.svg);
+}
+.partners:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.images{
+	position: absolute;
+	margin: auto auto auto 2px;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 589px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	display: inline-block;
+	background-image: url( ../svg/bootons/otkritki.svg);
+}
+.images:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}
+.info{
+	background-size: contain;
+	position: absolute;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: auto auto auto 2px;
+	width: 190px;
+	height: 190px;
+	background-color: #EEBF51;
+	background-image: url( ../svg/bootons/info.svg);
+	margin-left: 785px;
+}
+.info:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size: 195px;
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Стихи Филипповой  Марии</title>
+   	<link>.</link>
+        <generator>jAlbum 13</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>slides/1.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/1.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/1.png</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>slides/2.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/2.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/2.png</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>slides/3.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/3.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/3.png</guid>
+        </item>
+        <item>
+            <title>4</title>
+            <link>slides/4.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/4.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/4.png</guid>
+        </item>
+        <item>
+            <title>5</title>
+            <link>slides/5.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/5.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/5.png</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>slides/6.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/6.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/6.png</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>slides/7.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/7.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/7.png</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>slides/8.png</link>
+            <pubDate>Wed, 30 Aug 2017 16:54:57 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8.png" width="96" height="124"/>
+            <media:content type="image/gif" url="slides/8.png" width="700" height="904"/>
+            <guid isPermaLink="false">slides/8.png</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1179 @@
+.logtx{
+	width:866px;
+	height: 105px;
+	background: #EEBF51;	
+}
+.logtxx{
+	position: absolute;
+	width:866px;
+	font-family: "Arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top:17px;		
+}
+.next{
+	position: absolute;
+	width:866px;
+	height:105px;
+	font-family: "Arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 4px;
+	background: #EEBF51;
+}
+.ppal{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	margin-left:158px;
+	margin-top: 12px;
+	background: url( ../images/preh.svg);
+	background-size: cover;
+}
+.ppal:hover{
+	background: url( ../images/prehh.svg);
+	background-size: cover;
+	
+	
+}
+.pstt{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	margin-left:330px;
+	margin-top: 12px;
+	background: url( ../images/onered.svg);
+	background-size: cover;
+}
+.hstt{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	background: url( ../images/tch.svg);
+	background-size: cover;
+	margin-left:453px;
+	margin-top: 12px;	
+}
+.hstt:hover{
+	background: url( ../images/tchh.svg);
+	background-size: cover;
+	
+}
+.hpal{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	background: url( ../images/nex.svg);
+	background-size: cover;
+	margin-left:633px;
+	margin-top: 12px;	
+}
+.hpal:hover{
+	background: url( ../images/nexh.svg);
+	background-size: cover;
+	
+}
+.prev{
+	position: absolute;
+	width:866px;
+	height:143px;
+	font-family: "Arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 2754px;
+	background: #EEBF51;
+}
+
+.ppal1{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	margin-left:158px;
+	margin-top: 29px;
+	background: url( ../images/preh.svg);
+	background-size: cover;
+}
+.ppal1:hover{
+	background: url( ../images/prehh.svg);
+	background-size: cover;
+	
+	
+}
+.pstt1{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	margin-left:330px;
+	margin-top: 29px;
+	background: url( ../images/onered.svg);
+	background-size: cover;
+}
+.hstt1{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	background: url( ../images/tch.svg);
+	background-size: cover;
+	margin-left:453px;
+	margin-top: 29px;	
+}
+.hstt1:hover{
+	background: url( ../images/tchh.svg);
+	background-size: cover;
+	
+}
+.hpal1{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	background: url( ../images/nex.svg);
+	background-size: cover;
+	margin-left:633px;
+	margin-top: 29px;	
+}
+.hpal1:hover{
+	background: url( ../images/nexh.svg);
+	background-size: cover;
+	
+}
+.prev{
+	position: absolute;
+	width:866px;
+	height:143px;
+	font-family: "Arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 2754px;
+	background: #EEBF51;
+}
+
+
+
+
+
+
+.ob01{
+	position: absolute;
+	width:430px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 113px;
+	margin-left: 0px;	
+}
+.pf01{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url(../images/obratnay.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx01{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem01{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset011{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset011:hover{
+	border-radius: 1em;	
+}
+.sset012{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset012:hover{
+	border-radius: 1em;	
+}
+.ob02{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 113px;
+	margin-left: 435px;
+}
+.pf02{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/fil_oleg.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx02{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem02{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset021{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset021:hover{
+	border-radius: 1em;	
+}
+.sset022{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset022:hover{
+	border-radius: 1em;	
+}
+
+.ob03{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 377px;
+	margin-left: 0px;
+}
+.pf03{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/eroha_evgenia.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx03{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem03{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset031{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset031:hover{
+	border-radius: 1em;	
+}
+.sset032{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset032:hover{
+	border-radius: 1em;	
+}
+.ob04{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 377px;
+	margin-left: 435px;
+}
+.pf04{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/fil_nina.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx04{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem04{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset041{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset041:hover{
+	border-radius: 1em;	
+}
+.sset042{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset042:hover{
+	border-radius: 1em;	
+}
+
+.ob05{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 641px;
+	margin-left: 0px;
+}
+.pf05{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/fil_marina.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx05{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem05{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset051{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset051:hover{
+	border-radius: 1em;	
+}
+.ob06{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 641px;
+	margin-left: 435px;
+}
+.pf06{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/ivanov.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx06{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem06{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset061{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset061:hover{
+	border-radius: 1em;	
+}
+
+.ob07{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 905px;
+	margin-left: 0px;
+}
+.pf07{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/lopata.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx07{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem07{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset071{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset071:hover{
+	border-radius: 1em;	
+}
+.sset072{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset072:hover{
+	border-radius: 1em;	
+}
+.ob08{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 905px;
+	margin-left: 435px;
+}
+.pf08{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/lopatkin_roma.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx08{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem08{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset081{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset081:hover{
+	border-radius: 1em;	
+}
+
+
+.ob09{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:1169px;
+	margin-left: 0px;
+}
+.pf09{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/nata.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx09{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem09{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset091{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset091:hover{
+	border-radius: 1em;	
+}
+.ob10{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 1169px;
+	margin-left: 435px;
+}
+.pf10{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/elen.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx10{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem10{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset101{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset101:hover{
+	border-radius: 1em;	
+}
+.ob11{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:1433px;
+	margin-left: 0px;
+}
+.pf11{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/nata_sok.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx11{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem11{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset111{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset111:hover{
+	border-radius: 1em;	
+}
+.ob12{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 1433px;
+	margin-left: 435px;
+}
+.pf12{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/andrey_f.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx12{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem12{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset121{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset121:hover{
+	border-radius: 1em;	
+}
+.ob13{
+	position: absolute;
+	width:430px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:1697px;
+	margin-left: 0px;	
+}
+.pf13{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/vita_j.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx13{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem13{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset131{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset131:hover{
+	border-radius: 1em;	
+}
+.sset132{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset132:hover{
+	border-radius: 1em;	
+}
+.ob14{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 1697px;
+	margin-left: 435px;
+}
+.pf14{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/vita.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx14{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem14{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset141{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset141:hover{
+	border-radius: 1em;	
+}
+.sset142{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset142:hover{
+	border-radius: 1em;	
+}
+.ob15{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:1962px;
+	margin-left: 0px;
+}
+.pf15{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/oskina.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx15{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem15{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset151{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset151:hover{
+	border-radius: 1em;	
+}
+.sset152{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url( ../images/ok.jpg);
+	background-size: cover;
+	margin-top:180px;
+	margin-left:208px;		
+}
+.sset152:hover{
+	border-radius: 1em;	
+}
+.ob16{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 1962px;
+	margin-left: 435px;
+}
+.pf16{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/cepa.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx16{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem16{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset161{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset161:hover{
+	border-radius: 1em;	
+}
+.ob17{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:2226px;
+	margin-left: 0px;
+}
+.pf17{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/andre.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx17{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem17{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset171{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset171:hover{
+	border-radius: 1em;	
+}
+.ob18{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 2226px;
+	margin-left: 435px;
+}
+.pf18{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/nasty.png);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx18{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem18{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset181{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset181:hover{
+	border-radius: 1em;	
+}
+.ob19{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top:2490px;
+	margin-left: 0px;
+}
+.pf19{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/galla.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx19{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem19{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset191{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset191:hover{
+	border-radius: 1em;	
+}
+.ob20{
+	position: absolute;
+	width:431px;
+	height: 260px;
+	background: #EEBF51;
+	margin-top: 2490px;
+	margin-left: 435px;
+}
+.pf20{
+	position: absolute;
+	width:180px;
+	height: 230px;
+	background: url( ../images/komar.jpg);
+	background-size: cover;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+.tx20{
+	position: absolute;
+	width:208px;
+	height:70px;
+	margin-top: 15px;
+	margin-left:208px;			
+}
+.nem20{
+	position: absolute;
+	width:208px;
+	font-family: "Arial";
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px	
+}
+.sset201{
+	position: absolute;
+	width:208px;
+	height:65px;
+	background: url(../images/vk.jpg);
+	background-size: cover;
+	margin-top:100px;
+	margin-left:208px;		
+	
+}
+.sset201:hover{
+	border-radius: 1em;	
+}

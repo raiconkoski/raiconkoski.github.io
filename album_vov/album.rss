@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ветераны</title>
+   	<link>.</link>
+        <generator>jAlbum 13</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>01</title>
+            <link>slides/01.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/01.jpg</guid>
+        </item>
+        <item>
+            <title>02</title>
+            <link>slides/02.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/02.jpg</guid>
+        </item>
+        <item>
+            <title>03</title>
+            <link>slides/03.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/03.jpg</guid>
+        </item>
+        <item>
+            <title>04</title>
+            <link>slides/04.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/04.jpg</guid>
+        </item>
+        <item>
+            <title>05</title>
+            <link>slides/05.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/05.jpg</guid>
+        </item>
+        <item>
+            <title>06</title>
+            <link>slides/06.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 20:14:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06.jpg" width="1077" height="1080"/>
+            <guid isPermaLink="false">slides/06.jpg</guid>
+        </item>
+    </channel>
+</rss>

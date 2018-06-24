@@ -1,0 +1,56 @@
+h1{
+	font-family: "Arial";
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	padding-top: 10px
+}
+h2{
+	font-family: "Arial";
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+	padding-top: 10px
+}
+p{
+	font-family: "Arial";
+	font-size: 20px;
+	color: black;
+}
+a{
+	color: #FB070B;
+}
+.uprava{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/uprava.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #F15A24;
+	border-radius: 1em;
+}
+.upr{
+	width: 846px;
+	height: 695px;
+	padding-left: 20px
+}
+p{
+	font-size: 20px;
+	font-family:"Arial";
+}
+a{
+	color: crimson;
+}
+.upr1{
+
+	background-image: url( ../svg/uprava/uprava.svg);
+	background-size: 800px;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	width: 866px;
+	height: 386px;
+	margin:893px auto auto 109px;
+
+}

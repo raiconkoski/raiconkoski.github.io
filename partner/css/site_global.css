@@ -1,0 +1,117 @@
+#page{
+	position: absolute;
+	width: 866px;
+	height: 1086px;
+}
+
+#u9522{
+	position: absolute;
+	width: 866px;
+	height: 90px;
+	background: #EEBF51;
+}
+#u95-2{
+	position: absolute;
+	width: 866px;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 28px;
+}
+#u9555{
+	position: absolute;
+	width: 866px;
+	height:160px;
+	background: #EEBF51;
+	margin-top: 94px;
+}
+#u95-5{
+	position: absolute;
+	width: 830px;
+	text-align:justify;
+	font-family: arial;
+	font-size: 28px;
+	margin-top: 28px;
+	margin-left: 20px;
+}
+#u96{
+	position: absolute;
+	width: 866px;
+	height:828px;
+	background: #EEBF51;
+	margin-top: 258px
+}
+
+
+
+#u97{
+	position: absolute;
+	width: 270px;
+	height:400px;
+	margin-top:40px;
+	margin-left: 100px;
+	z-index:10;
+}
+#u98{
+	position: absolute;
+	width: 270px;
+	height:315px;
+	background: url(../images/lopa.png);
+	background-size: cover;
+	margin-top:0px;
+	margin-left: 0px;
+}
+#u98:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+#u99{
+	position: absolute;
+	width: 270px;
+	text-align: center;
+	font-family: arial;
+	font-size: 28px;
+	margin-top:325px;
+	margin-left: 0px;
+}
+
+#u100{
+	position: absolute;
+	width: 270px;
+	height:400px;
+	margin-top:40px;
+	margin-left: 500px;
+	z-index:10;
+}
+
+#u101{
+	position: absolute;
+	width: 270px;
+	height:315px;
+	background: url( ../images/mald.jpg);
+	background-size: cover;
+	margin-top:0px;
+	margin-left: 0px;
+}
+#u101:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+#u102{
+	position: absolute;
+	width: 270px;
+	text-align: center;
+	font-family: arial;
+	font-size: 28px;
+	margin-top:340px;
+	margin-left: 0px;
+}
+#u103{
+	position: absolute;
+	width: 823px;
+	height:360px;
+	background: url(../images/wel.jpg);
+	margin-top: 440px;
+	margin-left: 20px;
+}

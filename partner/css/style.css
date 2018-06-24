@@ -1,0 +1,115 @@
+*{
+	margin:0;
+	padding: 0;
+	border: 0;
+}
+
+h1{
+	font-family: "Arial";
+	font-size: 20px
+}
+
+a{
+	text-decoration: none;	
+}
+.clocc{
+	width: 550px;
+	height: 30px;
+	position: absolute;
+	margin-left: 232px;
+	margin-top: 95px;
+	font-family: arial;
+	font-size: 20px;
+	color: black;
+
+}
+.fon{
+	margin: 0 auto;
+	width: 974px;
+	height: auto;
+	background-color: blueviolet;
+}
+header{
+	margin: 0 auto;
+	width: auto;
+	height: 300px;
+	background-color: #EEBF51;
+}
+.logo{
+	margin: 0 auto;
+	width: 974px;
+	height: 300px;
+	background-color: #EEBF51;	
+	background-image: url(../../svg/logo/logo.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:960px
+}
+.raddio{
+	height: 80px;
+	width: 974px;
+	margin: 0 auto;
+	background-color: #EEBF51;	
+}
+.pan_l{
+	position: absolute;
+	width: 105px;
+	height: 1203px;
+	margin-top: 84px;
+}
+.pan_r{
+	position: absolute;
+	width: 851px;
+	height: 105px;
+	margin-left:109px;
+	margin-top: 84px;		
+}
+.content{
+	position: absolute;
+	width: 865px;
+	height: 1086px;
+	margin:193px auto auto 109px;
+}
+.footer_shcool{
+	margin: 3030px auto auto auto;
+	width: auto;
+	height: 110px;
+	background-color: #EEBF51;	
+	
+}
+footer{
+	margin: 1283px auto auto auto;
+	width: auto;
+	height: 110px;
+	background-color: #EEBF51;		
+}
+.foott{
+	margin: 0 auto;
+	width: 974px;
+	height: 110px;
+	background-color: #EEBF51;	
+}
+.ertch{
+	position: absolute;
+	margin: 10px auto auto 10px;
+	width: 90px;
+	height: 90px;
+	background-image: url(../../images/earth.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text_foot{
+	position: absolute;
+	margin: 45px auto auto  150px;
+	width: 700px;
+	height: 20px;
+	text-align: center;
+	color: #000;
+}
+.pogoda{
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 768px;
+}
+
+

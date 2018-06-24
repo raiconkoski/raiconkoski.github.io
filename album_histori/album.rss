@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Альбом</title>
+   	<link>.</link>
+        <generator>jAlbum 13</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>slides/1.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/1.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>slides/2.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/2.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>slides/3.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/3.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>4</title>
+            <link>slides/4.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/4.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>5</title>
+            <link>slides/5.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/5.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>slides/6.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/6.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>slides/7.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/7.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>slides/8.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/8.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>slides/9.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/9.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>10</title>
+            <link>slides/10.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/10.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        <item>
+            <title>11</title>
+            <link>slides/11.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/11.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        <item>
+            <title>12</title>
+            <link>slides/12.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/12.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        <item>
+            <title>13</title>
+            <link>slides/13.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/13.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        <item>
+            <title>14</title>
+            <link>slides/14.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/14.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+        <item>
+            <title>15</title>
+            <link>slides/15.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/15.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        <item>
+            <title>16</title>
+            <link>slides/16.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/16.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/16.jpg</guid>
+        </item>
+        <item>
+            <title>17</title>
+            <link>slides/17.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/17.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/17.jpg</guid>
+        </item>
+        <item>
+            <title>18</title>
+            <link>slides/18.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/18.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/18.jpg</guid>
+        </item>
+        <item>
+            <title>19</title>
+            <link>slides/19.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/19.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/19.jpg</guid>
+        </item>
+        <item>
+            <title>20</title>
+            <link>slides/20.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/20.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/20.jpg</guid>
+        </item>
+        <item>
+            <title>21</title>
+            <link>slides/21.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/21.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/21.jpg</guid>
+        </item>
+        <item>
+            <title>22</title>
+            <link>slides/22.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/22.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/22.jpg</guid>
+        </item>
+        <item>
+            <title>23</title>
+            <link>slides/23.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/23.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/23.jpg</guid>
+        </item>
+        <item>
+            <title>24</title>
+            <link>slides/24.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/24.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/24.jpg</guid>
+        </item>
+        <item>
+            <title>25</title>
+            <link>slides/25.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/25.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/25.jpg</guid>
+        </item>
+        <item>
+            <title>26</title>
+            <link>slides/26.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/26.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/26.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/26.jpg</guid>
+        </item>
+        <item>
+            <title>27</title>
+            <link>slides/27.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/27.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/27.jpg</guid>
+        </item>
+        <item>
+            <title>28</title>
+            <link>slides/28.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/28.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/28.jpg</guid>
+        </item>
+        <item>
+            <title>29</title>
+            <link>slides/29.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/29.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/29.jpg</guid>
+        </item>
+        <item>
+            <title>30</title>
+            <link>slides/30.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/30.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/30.jpg</guid>
+        </item>
+        <item>
+            <title>31</title>
+            <link>slides/31.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/31.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/31.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/31.jpg</guid>
+        </item>
+        <item>
+            <title>32</title>
+            <link>slides/32.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/32.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/32.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/32.jpg</guid>
+        </item>
+        <item>
+            <title>33</title>
+            <link>slides/33.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/33.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/33.jpg</guid>
+        </item>
+        <item>
+            <title>34</title>
+            <link>slides/34.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/34.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/34.jpg</guid>
+        </item>
+        <item>
+            <title>35</title>
+            <link>slides/35.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/35.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/35.jpg</guid>
+        </item>
+        <item>
+            <title>36</title>
+            <link>slides/36.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/36.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/36.jpg</guid>
+        </item>
+        <item>
+            <title>37</title>
+            <link>slides/37.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/37.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/37.jpg</guid>
+        </item>
+        <item>
+            <title>38</title>
+            <link>slides/38.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/38.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/38.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/38.jpg</guid>
+        </item>
+        <item>
+            <title>39</title>
+            <link>slides/39.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/39.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/39.jpg</guid>
+        </item>
+        <item>
+            <title>40</title>
+            <link>slides/40.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/40.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/40.jpg</guid>
+        </item>
+        <item>
+            <title>41</title>
+            <link>slides/41.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/41.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/41.jpg</guid>
+        </item>
+        <item>
+            <title>42</title>
+            <link>slides/42.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/42.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/42.jpg</guid>
+        </item>
+        <item>
+            <title>43</title>
+            <link>slides/43.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/43.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/43.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/43.jpg</guid>
+        </item>
+        <item>
+            <title>44</title>
+            <link>slides/44.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/44.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/44.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/44.jpg</guid>
+        </item>
+        <item>
+            <title>45</title>
+            <link>slides/45.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/45.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/45.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/45.jpg</guid>
+        </item>
+        <item>
+            <title>46</title>
+            <link>slides/46.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/46.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/46.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/46.jpg</guid>
+        </item>
+        <item>
+            <title>47</title>
+            <link>slides/47.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/47.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/47.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/47.jpg</guid>
+        </item>
+        <item>
+            <title>48</title>
+            <link>slides/48.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/48.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/48.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/48.jpg</guid>
+        </item>
+        <item>
+            <title>49</title>
+            <link>slides/49.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/49.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/49.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/49.jpg</guid>
+        </item>
+        <item>
+            <title>50</title>
+            <link>slides/50.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/50.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/50.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/50.jpg</guid>
+        </item>
+        <item>
+            <title>51</title>
+            <link>slides/51.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/51.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/51.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/51.jpg</guid>
+        </item>
+        <item>
+            <title>52</title>
+            <link>slides/52.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/52.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/52.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/52.jpg</guid>
+        </item>
+        <item>
+            <title>53</title>
+            <link>slides/53.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/53.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/53.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/53.jpg</guid>
+        </item>
+        <item>
+            <title>54</title>
+            <link>slides/54.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/54.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/54.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/54.jpg</guid>
+        </item>
+        <item>
+            <title>55</title>
+            <link>slides/55.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/55.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/55.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/55.jpg</guid>
+        </item>
+        <item>
+            <title>56</title>
+            <link>slides/56.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/56.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/56.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/56.jpg</guid>
+        </item>
+        <item>
+            <title>57</title>
+            <link>slides/57.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/57.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/57.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/57.jpg</guid>
+        </item>
+        <item>
+            <title>58</title>
+            <link>slides/58.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/58.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/58.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/58.jpg</guid>
+        </item>
+        <item>
+            <title>59</title>
+            <link>slides/59.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/59.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/59.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/59.jpg</guid>
+        </item>
+        <item>
+            <title>60</title>
+            <link>slides/60.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/60.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/60.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/60.jpg</guid>
+        </item>
+        <item>
+            <title>61</title>
+            <link>slides/61.jpg</link>
+            <pubDate>Sun, 27 Aug 2017 19:34:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/61.jpg" width="57" height="80"/>
+            <media:content type="image/jpeg" url="slides/61.jpg" width="764" height="1080"/>
+            <guid isPermaLink="false">slides/61.jpg</guid>
+        </item>
+    </channel>
+</rss>

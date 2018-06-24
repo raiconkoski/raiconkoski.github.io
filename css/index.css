@@ -1,0 +1,183 @@
+p{
+	font-family: "Arial";
+    font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+/*1 слой кнопок*/
+.boots_one{
+	margin: 85px auto;
+	width: 975px;
+	height: 190px;
+}
+/*2 слой кнопок*/
+.boots_two{
+	margin:-80px auto;
+	width: 974px;
+	height: 190px;
+}
+/*2 слой контента*/
+.cont_two{
+	margin:85px auto;
+	width: 975px;
+	height: 795px;
+}
+.cont1{
+	position: absolute;
+	width: 300px;
+	height: 395px;
+	background-size: 265px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #EEBF51;
+}
+.cont1:hover{
+	background-color: #5BA1C8;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 1em;
+}
+.fill{
+	position: absolute;
+	width: 225px;
+	height: 240px;
+	background: url(../images/lirika/maria.png);
+	margin: 33px auto auto 35px;
+	background-size: cover;
+	background-position: center;
+}
+.fill:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+
+.text11{
+	position: relative;
+	margin-top: 300px;
+}
+.im1{
+	margin: 32px auto auto 35px;
+	position: absolute;
+	width: 600px;
+	height:240px;	background:url( ../images/index/poss.jpg);
+	background-size: contain;	
+}
+.im1:hover{
+   background:url(../images/index/poss.jpg);
+   background-size: contain;
+   border-radius: 1em;
+   border: solid  #FFFFFF 2px;
+
+}
+
+.cont2{
+	margin-left: 305px;
+	width: 670px;
+	height: 395px;
+	background-color: #EEBF51;
+	background-size: cover;
+}
+.cont2:hover{
+	background-color: #5BA1C8;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 270px;
+	border-radius: 1em;
+}
+.text22{
+	position: absolute;
+	width: 670px;
+	margin-top: 300px;
+
+}
+.cont3{
+	margin-top: 5px;
+	position: absolute;
+	width: 670px;
+	height: 395px;
+	background-color: #EEBF51;
+}
+.cont3:hover{
+	background-color: #5BA1C8;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 270px;
+	border-radius: 1em;
+}
+
+.kurg{
+	position: absolute;
+	width: 600px;
+	height: 238px;
+	background: url( ../images/index/kurgan.jpg);
+	background-size: cover;
+	margin: 35px auto auto 35px;	
+	
+}
+.kurg:hover{
+   background:url( ../images/index/kurgan.jpg);
+   border-radius: 1em;
+   border: solid  #FFFFFF 2px;
+   background-size: cover;
+}
+.text33{
+	position: absolute;
+	width: 670px;
+	margin-top: 300px;
+}
+
+
+.cont4{
+	margin-top: 5px;
+	margin-left: 675px;
+	width: 300px;
+	height: 395px;
+	background-color: #EEBF51;
+}
+.karel{
+	position: absolute;
+	width: 225px;
+	height: 238px;
+	background: url( ../images/index/natur1.png);
+	margin: 35px auto auto 38px;
+	background-size: cover;
+	background-position: center;
+}
+.karel:hover{
+   background: url( ../images/index/natur1.png);
+   background-size: cover;
+   border-radius: 1em;
+   border: solid  #FFFFFF 2px;
+   background-position: center;
+}
+.text44{
+	width: 300px;
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 5px;
+		
+}
+/*3 слой кнопок*/
+.boots_three{
+	margin:-80px auto;
+	width: 975px;
+	height: 190px;
+}
+/*3 слой контента*/
+.cont_three{
+	margin:-80px auto;
+	width: 975px;
+	height: 548px;
+	background-color: #EEBF51;	
+}
+/*4 слой кнопок*/
+.boots_four{
+	margin: 85px auto;
+	width: 975px;
+	height: 190px;
+}
+.footer1{
+	margin: 85px auto auto auto;
+	width: auto;
+	background-color: #EEBF51;	
+}

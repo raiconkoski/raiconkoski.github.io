@@ -1,0 +1,195 @@
+h2{
+	font-family: "Arial";
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+}
+p{
+	font-family: "Arial";
+	font-size: 20px;
+	color: black;
+}
+.contakt{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/contact.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #F15A24;
+	border-radius: 1em;
+}
+.contakt:hover{
+	background-color: #F15A24;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.one_sloy{
+	margin: 0px auto auto 0px;
+	position: absolute;
+	width: 866px;
+	height: 323px;
+	background-color: #EEBF51;
+}
+.phot1{
+	position: absolute;
+	width: 250px;
+	height: 289px;
+	background-image: url(../images/contact/fill.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 16px 20px;	
+}
+.phot1:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;	
+	
+}
+.text0{
+	position: absolute;
+	width: 555px;
+	height: 280px;
+	margin: 10px 290px;	
+	text-indent: 20px; 
+}
+.napishi{
+	margin: 327px auto auto 0px;
+	position: absolute;
+	height: 280px;
+	background-color: #EEBF51;	
+	width: 866px;
+	padding-top:10px;
+	background-image: url(../svg/contact/block.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.brends{
+	margin: 610px auto auto auto;
+	position: absolute;
+	width: 866px;
+	height: 475px;	
+}
+.vk_fill{
+	margin:11px auto auto 0px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-size: contain;
+	background-image: url( ../svg/contact/vkfill.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;
+}
+.vk_fill:hover{
+	background-size:190px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+}
+.vk_1{
+	margin: 11px auto auto 205px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-size: contain;
+	background-image: url(../svg/contact/vk1.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;
+}
+.vk_1:hover{
+	background-size:190px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+}
+.vk_2{
+	margin: 11px auto auto 410px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-size: contain;
+	background-image: url(../svg/contact/vk2.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;
+}
+.vk_2:hover{
+	background-position: center;
+	background-size:190px;	
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+}
+.fill{
+	margin: 11px auto auto 615px;
+	position: absolute;
+	width: 251px;
+	height: 200px;
+	background-image: url( ../svg/contact/fill.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-color: #EEBF51;	
+}
+.fill:hover{
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+	background-size:225px;
+}
+.rai{
+	margin: 215px auto auto 0px;
+	position: absolute;
+	width: 295px;
+	height: 260px;
+	background-size: contain;
+	background-position: center;
+	background-image: url( ../svg/contact/raii.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;	
+}
+.rai:hover{
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+	background-size:270px;
+	background-position: center;
+}
+.suo{
+	margin: 215px auto auto 300px;
+	position: absolute;
+	width: 280px;
+	height: 260px;
+	background-size: contain;
+	background-position: center;
+	background-image: url( ../svg/contact/suo.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;	
+}
+.suo:hover{
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+	background-size:260px;
+}
+.karelia{
+	margin: 215px auto auto 585px;
+	position: absolute;
+	width: 281px;
+	height: 260px;
+	background-size: contain;
+	background-image: url( ../svg/contact/kareliy.svg);
+	background-repeat: no-repeat;
+	background-color: #EEBF51;	
+}
+.karelia:hover{
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	background-color: #5BA1C8;
+	background-size:260px;
+}

@@ -1,0 +1,464 @@
+h3{
+	font-family: "Arial";
+    font-size: 20px;
+	font-weight: bold;
+}
+h2{
+	font-family: "Arial";
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+p{
+	font-family: "Arial";
+	font-size: 20px;
+	color: black;
+
+
+}
+#kurgan_01{
+	position: absolute;
+	width: 865px;
+	height: 400px;
+	background: #EEBF51;
+	text-align:  justify;
+}
+.Nazvanie_01{
+	font-family: "Arial";
+	font-weight: bold;
+	width: 865px;
+	height: 80px;
+	vertical-align: middle; 
+
+}
+.Nazvanie_kur{ 
+	font-size: 30px;
+	padding-top: 25px;
+}
+.img_kur01{
+	margin: auto auto auto 25px;
+	position: absolute;
+	display: inline-block;
+	width: 250px;
+	height: 300px;
+	background: url(../images/kurgan/img01.jpg);
+	background-size: contain;
+}
+.img_kur01:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+
+.tx_kur01{
+	text-indent: 20px;
+	margin-left: 295px;
+	position: absolute;
+	display: inline-block;
+	width: 545px;
+}
+.boot_01{
+	position: absolute;
+	width: 170px;
+	height: 50px;
+	margin-top:268px;
+	margin-left: 693px;
+	background: url( ../svg/bootons/dalie01.svg);
+	background-size: contain;
+	border: solid #FFFFFF 2px;
+}
+.boot_01:hover{
+	background-color: #5BA1C8;
+}
+
+
+#albom_01{
+	margin-top: 404px;
+	position: absolute;
+	width: 865px;
+	height: 682px;
+	background: #EEBF51;
+	text-align:  justify;
+}
+.Nazvanie_02{
+	font-family: "Arial";
+	font-weight: bold;
+	width: 865px;
+	height: 80px;
+	vertical-align: middle; 
+
+}
+.Nazvanie_alb{ 
+	font-size: 30px;
+	padding-top: 25px;
+}
+.img_alb02{
+	margin: 75px auto auto 25px;
+	position: absolute;
+	display: inline-block;
+	width: 250px;
+	height: 355px;
+	background: url(../album_histori/slides/1.jpg);
+	background-size: contain;
+}
+.img_alb02:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+.img_alb03{
+	margin: 75px auto auto 308px;
+	position: absolute;
+	display: inline-block;
+	width: 250px;
+	height: 350px;
+	background: url( ../album_histori/slides/41.jpg);
+	background-size: contain;
+}
+.img_alb03:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+.img_alb04{
+	margin: 75px auto auto 590px;
+	position: absolute;
+	display: inline-block;
+	width: 250px;
+	height: 350px;
+	background: url(../album_histori/slides/7.jpg);
+	background-size: contain;
+}
+.img_alb04:hover{
+	border-radius: 1em;
+	border: solid  #FFFFFF 2px;
+}
+
+
+
+.boot_02{
+	position: absolute;
+	width: 170px;
+	height: 50px;
+	margin-top:550px;
+	margin-left: 693px;
+	background: url( ../svg/bootons/dalie01.svg);
+	background-size: contain;
+	border: solid #FFFFFF 2px;
+}
+.boot_02:hover{
+	background-color: #5BA1C8;
+}
+
+
+
+
+
+.home{
+	width: 105px;
+	height: 105px;
+	background-image: url(../svg/bootons/home.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.home:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.home:visited{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+} 
+.contakt{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/contact.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.contakt:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.uprava{
+	margin-top: 4px;
+	width: 105px;
+	height: 105px;
+	background-image: url( ../svg/bootons/uprava.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.uprava:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.news{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/news.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.news:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.histor{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/historich.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #F15A24;
+	border-radius: 1em;
+}
+
+.vov{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/vov.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.vov:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.shcool{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/scool.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.shcool:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.mans{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/mans.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.mans:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.lirica{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/lirika.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.lirica:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.map{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/map.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.map:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.karjala{
+	width: 105px;
+	height: 105px;
+	margin-top: 4px;
+	background-image: url( ../svg/bootons/karjala.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.karjala:hover{
+	background-image: url( ../svg/bootons/karjala1.svg);
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+/**Горизонталь**/
+.music{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/music.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+}
+.music:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.video{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/video.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 108px;
+}	
+.video:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.photo{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/photo.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 217px;
+}	
+.photo:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.games{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/games.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 326px;
+}	
+.games:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.vk1{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/vk1.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 435px;
+}	
+.vk1:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.vk2{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/vk2.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 544px;
+}	
+.vk2:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.partners{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/partnyrs.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 653px;
+}	
+.partners:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.images{
+	width: 104px;
+	height: 105px;
+	background-image: url( ../svg/bootons/otkritki.svg);
+	background-size: 100px 100px;
+	background-position: center;
+	background-color: #EEBF51;
+	position: absolute;
+	margin: -105px auto auto 762px;
+}	
+.images:hover{
+	background-color: #5BA1C8;
+	border-radius: 1em;
+	background-size:107px;
+	background-repeat: no-repeat;
+}
+.document_tx{
+	margin-top: 18px;
+	font-size: 22px	
+}
+.document{
+	background: #F15A24;
+	position: absolute;
+	width: 810px;
+	height: 60px;
+	margin: 455px auto auto 25px;
+	border: solid  #FFFFFF 2px;
+	font-family: arial;
+	text-align: center;	
+}
+.document:hover{
+	border-radius: 1em;
+	background: #5BA1C8;
+	border: solid  #FFFFFF 2px;
+}
